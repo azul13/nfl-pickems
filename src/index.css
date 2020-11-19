@@ -1,0 +1,27 @@
+.logo {
+    max-width:5.5vw;
+    max-height:3.5vh;
+    width: auto;
+    height: auto;
+  }
+
+  .small-logo {
+    display: flex;
+    flex-wrap: nowrap;
+    max-width:2vw;
+    max-height:1.5vh;
+    width: auto;
+    height: auto;
+    color: #3545d4ec;
+    /* color: #acaaaaec */
+  }
+
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+
+  /* .MuiTableCell-body{
+    background-color: #ee4f4f
+  } */
